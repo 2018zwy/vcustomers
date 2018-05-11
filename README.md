@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vcustomers
 
 > A Vue.js project
@@ -24,3 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # userManagement
 用户管理
 >>>>>>> 4aef482c693db5fcd0981c3a4140372c3f5986ce
+=======
+# vcustomers
+用户管理系统
+>>>>>>> 6558fad509a0d3004b997a85ea7a3288d58dd629
