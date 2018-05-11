@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vcustomers
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# userManagement
+用户管理
+>>>>>>> 4aef482c693db5fcd0981c3a4140372c3f5986ce
